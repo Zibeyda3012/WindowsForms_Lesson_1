@@ -1,0 +1,17 @@
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\bin\Debug\net6.0-windows\WinFormsApp_task2.exe
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\bin\Debug\net6.0-windows\WinFormsApp_task2.deps.json
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\bin\Debug\net6.0-windows\WinFormsApp_task2.runtimeconfig.json
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\bin\Debug\net6.0-windows\WinFormsApp_task2.dll
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\bin\Debug\net6.0-windows\WinFormsApp_task2.pdb
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.csproj.AssemblyReference.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.Form1.resources
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.csproj.GenerateResource.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.AssemblyInfoInputs.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.AssemblyInfo.cs
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.csproj.CoreCompileInputs.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.dll
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\refint\WinFormsApp_task2.dll
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.pdb
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\WinFormsApp_task2.genruntimeconfig.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WinFormsApp_task2\obj\Debug\net6.0-windows\ref\WinFormsApp_task2.dll

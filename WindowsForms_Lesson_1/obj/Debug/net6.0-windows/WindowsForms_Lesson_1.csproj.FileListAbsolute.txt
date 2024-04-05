@@ -1,0 +1,17 @@
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\bin\Debug\net6.0-windows\WindowsForms_Lesson_1.exe
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\bin\Debug\net6.0-windows\WindowsForms_Lesson_1.deps.json
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\bin\Debug\net6.0-windows\WindowsForms_Lesson_1.runtimeconfig.json
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\bin\Debug\net6.0-windows\WindowsForms_Lesson_1.dll
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\bin\Debug\net6.0-windows\WindowsForms_Lesson_1.pdb
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.csproj.AssemblyReference.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.Form1.resources
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.csproj.GenerateResource.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.AssemblyInfoInputs.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.AssemblyInfo.cs
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.dll
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\refint\WindowsForms_Lesson_1.dll
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.pdb
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\WindowsForms_Lesson_1.genruntimeconfig.cache
+C:\Users\Musay_zv97\Desktop\WindowsForms_Lesson_1\WindowsForms_Lesson_1\obj\Debug\net6.0-windows\ref\WindowsForms_Lesson_1.dll
